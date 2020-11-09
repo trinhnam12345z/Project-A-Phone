@@ -5,4 +5,7 @@ ASP.NET Core là một web framework mã nguồn và được tối ưu hóa cho
 - Nó bao gồm những modular với các thành phần tối thiểu, do đó bạn giữ được tính linh hoạt trong quá trình xây dựng các giải pháp của mình.
 - Bạn có thể phát triển và chạy các ứng dụng đa nền tảng từ ASP.NET Core trên Windows, Mac và Linux.
 # Project A Phone
+>###### Mô tả
+`Project A Phone` là một trang thương mại điện tử (Bán điện thoại). Được xây dựng trên `ASP.NET Core 3.1`.
+>###### Tiến độ
 6/11/2020 : Add Template
