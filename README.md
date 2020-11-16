@@ -12,3 +12,4 @@ ASP.NET Core là một web framework mã nguồn và được tối ưu hóa cho
 - 9-10/11/2020 : Thiết kế database (Cập nhật sau ... )
 ![image](https://user-images.githubusercontent.com/70925568/98702087-9371fc00-23ac-11eb-8734-a4e85bbe7594.png)
 - 11/11/2020 : Tạo Model 
+- 16/11/2020 : Thêm DashBoard Layout 
