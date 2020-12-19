@@ -67,5 +67,22 @@ namespace Aphone.Controllers
             return View(categories);
 
         }
+        [HttpPost]
+        public IActionResult DeleteCategory(int? id)
+        {
+            if (id == null || id == 0)
+            {
+                return NotFound();
+            }
+
+            var categories = _appDbContext.Categories.Find(id);
+            if (categories == null) return NotFound();
+
+            _appDbContext.Categories.Remove(categories);
+            _appDbContext.SaveChanges();
+
+            return RedirectToAction("Index");
+
+        }
     }
 }

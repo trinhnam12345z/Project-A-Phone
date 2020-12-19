@@ -380,7 +380,6 @@ E:\C# ASP.net core Web Application\Aphone\Aphone\obj\Debug\netcoreapp3.1\Aphone.
 E:\C# ASP.net core Web Application\Aphone\Aphone\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutDashBoard.cshtml.g.cs
 E:\C# ASP.net core Web Application\Project-A-Phone\Aphone\Aphone\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\C# ASP.net core Web Application\Project-A-Phone\Aphone\Aphone\bin\Debug\netcoreapp3.1\appsettings.json
-E:\C# ASP.net core Web Application\Project-A-Phone\Aphone\Aphone\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 E:\C# ASP.net core Web Application\Project-A-Phone\Aphone\Aphone\bin\Debug\netcoreapp3.1\Aphone.exe
 E:\C# ASP.net core Web Application\Project-A-Phone\Aphone\Aphone\bin\Debug\netcoreapp3.1\Aphone.deps.json
 E:\C# ASP.net core Web Application\Project-A-Phone\Aphone\Aphone\bin\Debug\netcoreapp3.1\Aphone.runtimeconfig.json
@@ -807,3 +806,4 @@ E:\C# ASP.net core Web Application\Project-A-Phone\Aphone\Aphone\obj\Debug\netco
 E:\C# ASP.net core Web Application\Project-A-Phone\Aphone\Aphone\obj\Debug\netcoreapp3.1\Razor\Views\Category\_ViewStart.cshtml.g.cs
 E:\C# ASP.net core Web Application\Project-A-Phone\Aphone\Aphone\obj\Debug\netcoreapp3.1\Razor\Views\Category\Create.cshtml.g.cs
 E:\C# ASP.net core Web Application\Project-A-Phone\Aphone\Aphone\obj\Debug\netcoreapp3.1\Razor\Views\Category\Edit.cshtml.g.cs
+E:\C# ASP.net core Web Application\Project-A-Phone\Aphone\Aphone\obj\Debug\netcoreapp3.1\scopedcss\bundle\Aphone.styles.css
